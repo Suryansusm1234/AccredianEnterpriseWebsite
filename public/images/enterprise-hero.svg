@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <rect width="1280" height="720" rx="48" fill="#EAF3FF"/>
+  <rect x="88" y="92" width="1104" height="536" rx="36" fill="white"/>
+  <rect x="148" y="152" width="358" height="252" rx="24" fill="#005BBF" opacity="0.08"/>
+  <rect x="554" y="152" width="578" height="72" rx="20" fill="#F0EFFF"/>
+  <rect x="554" y="256" width="264" height="164" rx="24" fill="#005BBF"/>
+  <rect x="848" y="256" width="284" height="164" rx="24" fill="#F6F3F2"/>
+  <rect x="148" y="438" width="984" height="130" rx="24" fill="#F6F3F2"/>
+  <circle cx="292" cy="278" r="70" fill="#6B46F4" opacity="0.18"/>
+  <circle cx="930" cy="338" r="46" fill="#6B46F4" opacity="0.12"/>
+  <text x="176" y="198" fill="#1B1B1B" font-family="Arial, sans-serif" font-size="36" font-weight="700">Enterprise Learning</text>
+  <text x="176" y="246" fill="#414754" font-family="Arial, sans-serif" font-size="22">AI, product, data, and leadership programs</text>
+  <text x="590" y="196" fill="#1A73E8" font-family="Arial, sans-serif" font-size="28" font-weight="700">Performance Dashboard</text>
+  <text x="590" y="312" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="700">10K+</text>
+  <text x="590" y="350" fill="white" font-family="Arial, sans-serif" font-size="18">Professionals trained</text>
+  <text x="590" y="396" fill="white" font-family="Arial, sans-serif" font-size="18">Customized cohorts for enterprise teams</text>
+  <text x="882" y="312" fill="#1B1B1B" font-family="Arial, sans-serif" font-size="24" font-weight="700">Flexible Delivery</text>
+  <text x="882" y="352" fill="#414754" font-family="Arial, sans-serif" font-size="18">Virtual, onsite, hybrid,</text>
+  <text x="882" y="378" fill="#414754" font-family="Arial, sans-serif" font-size="18">and cohort-based models</text>
+</svg>

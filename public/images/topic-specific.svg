@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" fill="none">
+  <rect width="960" height="720" fill="#FAFAFC"/>
+  <rect x="96" y="126" width="768" height="468" rx="34" fill="white" stroke="#C1C6D6" stroke-width="6"/>
+  <rect x="154" y="188" width="652" height="54" rx="18" fill="#F0EFFF"/>
+  <rect x="154" y="274" width="450" height="34" rx="12" fill="#DCE7FF"/>
+  <rect x="154" y="328" width="560" height="34" rx="12" fill="#DCE7FF"/>
+  <rect x="154" y="382" width="390" height="34" rx="12" fill="#DCE7FF"/>
+  <circle cx="744" cy="446" r="56" fill="#6B46F4" opacity="0.18"/>
+  <text x="154" y="518" fill="#1B1B1B" font-family="Arial, sans-serif" font-size="34" font-weight="700">Focused modules on niche skills</text>
+  <text x="154" y="640" fill="#1B1B1B" font-family="Arial, sans-serif" font-size="46" font-weight="700">Topic Specific</text>
+</svg>

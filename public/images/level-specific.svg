@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" fill="none">
+  <rect width="960" height="720" fill="#EEF3FF"/>
+  <path d="M148 512C148 463.399 187.399 424 236 424H724C772.601 424 812 463.399 812 512V548H148V512Z" fill="#DCE7FF"/>
+  <circle cx="236" cy="360" r="72" fill="#005BBF" opacity="0.22"/>
+  <circle cx="480" cy="284" r="88" fill="#6B46F4" opacity="0.22"/>
+  <circle cx="724" cy="360" r="72" fill="#005BBF" opacity="0.22"/>
+  <path d="M236 308V212" stroke="#005BBF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M480 236V144" stroke="#6B46F4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M724 308V212" stroke="#005BBF" stroke-width="16" stroke-linecap="round"/>
+  <text x="178" y="636" fill="#1B1B1B" font-family="Arial, sans-serif" font-size="46" font-weight="700">Level Specific</text>
+</svg>

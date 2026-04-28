@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" fill="none">
+  <rect width="960" height="720" fill="#F4F7FB"/>
+  <rect x="120" y="120" width="120" height="420" rx="18" fill="#005BBF" opacity="0.75"/>
+  <rect x="268" y="72" width="124" height="468" rx="18" fill="#1A73E8" opacity="0.6"/>
+  <rect x="420" y="150" width="124" height="390" rx="18" fill="#6B46F4" opacity="0.45"/>
+  <rect x="572" y="98" width="124" height="442" rx="18" fill="#005BBF" opacity="0.5"/>
+  <rect x="724" y="178" width="116" height="362" rx="18" fill="#DCE7FF"/>
+  <text x="120" y="638" fill="#1B1B1B" font-family="Arial, sans-serif" font-size="46" font-weight="700">Industry Specific</text>
+</svg>
